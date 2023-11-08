@@ -1,0 +1,31 @@
+html{
+    background-color: #776B5D;
+    font-size: 2rem;
+    font-family: agbalumo,cursive;
+    letter-spacing: 2px;
+}
+
+
+
+#heading{
+    color: #EBE3D5;
+    text-align: center;
+}
+
+.poster{
+    height: 400px;
+    width: 300px;
+    border: 12px solid #F3EEEA;
+    margin: 30px 30px;
+    padding: 5px;
+}
+
+#pic1{
+    height: 400px;
+    width: 600px;
+    
+}
+
+#pic1,#pic4{
+    margin-left: 50px;
+}
